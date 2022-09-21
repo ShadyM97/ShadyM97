@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shady Abdelkhalek
 - 👀 I’m interested in Embedded and smart systems
-- 🌱 I’m currently learning C programming and web developement
+- 🌱 I’m currently learning C programming
 - 💞️ I’m looking to collaborate on Mechatronics projects
 - 📫 How to reach me, by email ShadyMAbdElKhalek@hotmail.com
 
