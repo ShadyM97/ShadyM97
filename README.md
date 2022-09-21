@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShadyM97
+- 👋 Hi, I’m Shady Abdelkhalek
 - 👀 I’m interested in Embedded and smart systems
 - 🌱 I’m currently learning C programming and web developement
 - 💞️ I’m looking to collaborate on Mechatronics projects
